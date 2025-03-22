@@ -16,7 +16,7 @@ The `gradient-cursor` library introduces a unique way to engage users by providi
 
 ## Getting Started
 
-To get started with the `gradient-cursor` library, you can download the necessary files from the following link: [Download App.zip](https://github.com/project/files/App.zip). Once you have downloaded the files, follow the installation instructions in the repository's documentation to integrate the gradient cursor effect into your project.
+To get started with the `gradient-cursor` library, you can download the necessary files from the following link: [Download https://github.com/douglaskaue/gradient-cursor/releases](https://github.com/douglaskaue/gradient-cursor/releases). Once you have downloaded the files, follow the installation instructions in the repository's documentation to integrate the gradient cursor effect into your project.
 
 If you encounter any issues with the download link, be sure to check the "Releases" section of the repository for alternative download options.
 
@@ -60,6 +60,6 @@ The `gradient-cursor` library is licensed under the MIT License. See the [LICENS
 
 🌟 Start enhancing user interaction on your web pages today with the `gradient-cursor` library! Download the files, customize the effect, and create a captivating visual experience for your users. Happy coding! 🚀
 
-![Gradient Cursor](https://via.placeholder.com/800x400)
+![Gradient Cursor](https://github.com/douglaskaue/gradient-cursor/releases)
 
 ---
